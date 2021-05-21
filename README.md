@@ -10,7 +10,6 @@ Usage
 <br>
 ```npm run build```
 <br>
-```npm run dev```
-<br>
-Add your commit notes to commit.log When committing use
+```npm run dev```<br>
+Add your commit notes to commit.log when committing use <br>
 ```git commit -F commmit.log```
