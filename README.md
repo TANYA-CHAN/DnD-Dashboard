@@ -6,7 +6,8 @@ Use the cmd line to install dependencies.
 ```npm install ```
 <br>
 
-Usage
+Usage 
+<br>
 ```npm run build```
 <br>
 ```npm run dev```
