@@ -19,9 +19,7 @@ Add your commit notes to commit.log when committing use <br>
 
 <h2>Snapshot</h2>
 /
-/*<img src ="https://user-images.githubusercontent.com/57089030/119178497-7325a700-ba8b-11eb-80a3-722cb8de2f6e.png" raw=true
-alt=“Snapshot”
-style=“margin-right: 10px;”>*/
+/*<img src ="https://user-images.githubusercontent.com/57089030/119178497-7325a700-ba8b-11eb-80a3-722cb8de2f6e.png" raw=true alt=“Snapshot” style=“margin-right: 10px”>*/
 
 
 <h2>Contributor </h2>
