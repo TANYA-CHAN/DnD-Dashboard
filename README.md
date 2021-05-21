@@ -3,7 +3,8 @@ A simple Trello Dashboard clone in React.js and react-dnd.
 
 <h2>Installation</h2>
 Use the cmd line to install dependencies.
-```npm install ```
+<br>
+```npm install```
 <br>
 
 Usage 
