@@ -18,7 +18,7 @@ Add your commit notes to commit.log when committing use <br>
 
 
 <h2>Snapshot</h2>
-<a href='https://postimg.cc/56K6QLgT' target='_blank'><img src='https://i.postimg.cc/mgBMqSHL/Screenshot-733.png' height="400" width="400" alt='Screenshot-733'/></a>
+<a href='https://postimg.cc/56K6QLgT' target='_blank'><img src='https://i.postimg.cc/mgBMqSHL/Screenshot-733.png'  width="400" alt='Screenshot-733'/></a>
 
 
 <h2>Contributor </h2>
