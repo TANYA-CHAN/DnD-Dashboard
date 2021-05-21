@@ -18,7 +18,12 @@ Add your commit notes to commit.log when committing use <br>
 
 
 <h2>Snapshot</h2>
-![Screenshot (733)](https://user-images.githubusercontent.com/57089030/119178140-f0045100-ba8a-11eb-9380-801c8e4c8a82.png)
+<img
+src=“C:\Users\Tanya\OneDrive\Pictures\Screenshots\Screenshot733.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
 
 <h2>Contributor </h2>
