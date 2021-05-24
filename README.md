@@ -1,6 +1,9 @@
 # DnD-Dashboard
 A simple Trello Dashboard clone in React.js and react-dnd.
 
+<h2>Project Live Link</h2>
+<a href="https://adoring-hoover-c4e875.netlify.app/">link</a>
+
 <h2>Installation</h2>
 Use the cmd line to install dependencies.<br>
 
